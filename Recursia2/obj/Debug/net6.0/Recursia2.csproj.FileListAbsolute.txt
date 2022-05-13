@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\bin\Debug\net6.0\Recursia2.exe
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\bin\Debug\net6.0\Recursia2.deps.json
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\bin\Debug\net6.0\Recursia2.runtimeconfig.json
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\bin\Debug\net6.0\Recursia2.dll
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\bin\Debug\net6.0\ref\Recursia2.dll
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\bin\Debug\net6.0\Recursia2.pdb
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.dll
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\ref\Recursia2.dll
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.pdb
+C:\Users\User\Desktop\c#\Recursia-main\Recursia2\obj\Debug\net6.0\Recursia2.genruntimeconfig.cache
