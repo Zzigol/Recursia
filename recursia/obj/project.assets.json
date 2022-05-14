@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\grinn\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\recursia.csproj",
-      "projectName": "recursia",
-      "projectPath": "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\recursia.csproj",
-      "packagesPath": "C:\\Users\\grinn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\obj\\",
+      "projectUniqueName": "C:\\Repozitorii\\Recursia1\\recursia\\Recursia1.csproj",
+      "projectName": "Recursia1",
+      "projectPath": "C:\\Repozitorii\\Recursia1\\recursia\\Recursia1.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Repozitorii\\Recursia1\\recursia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\grinn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
