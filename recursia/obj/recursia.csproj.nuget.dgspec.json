@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\c#\\Recursia-main\\recursia\\recursia.csproj": {}
+    "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\recursia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\c#\\Recursia-main\\recursia\\recursia.csproj": {
+    "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\recursia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\c#\\Recursia-main\\recursia\\recursia.csproj",
+        "projectUniqueName": "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\recursia.csproj",
         "projectName": "recursia",
-        "projectPath": "C:\\Users\\User\\Desktop\\c#\\Recursia-main\\recursia\\recursia.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\c#\\Recursia-main\\recursia\\obj\\",
+        "projectPath": "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\recursia.csproj",
+        "packagesPath": "C:\\Users\\grinn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\grinn\\source\\repos\\recursia1\\recursia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\grinn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
